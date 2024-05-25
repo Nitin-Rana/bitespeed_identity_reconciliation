@@ -1,0 +1,24 @@
+{
+  "name": "bitespeed_identity_reconciliation",
+  "version": "1.0.0",
+  "description": "Bitspeed's Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitin-Rana/bitespeed_identity_reconciliation.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "express"
+  ],
+  "author": "Nitin Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitin-Rana/bitespeed_identity_reconciliation/issues"
+  },
+  "homepage": "https://github.com/Nitin-Rana/bitespeed_identity_reconciliation#readme"
+}
